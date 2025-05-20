@@ -1,28 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bfef5c9-b471-458e-94ce-57febebd7a28" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin_Induce.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+    <list default="true" id="2bfef5c9-b471-458e-94ce-57febebd7a28" name="Changes" comment="03.03.24">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Enum" />
+        <option value="Kotlin Data Class" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GruStEAmer&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GruStEAmer/Kotlin_Induce.git&quot;,
+    &quot;accountId&quot;: &quot;0d4e3050-9e47-4ecc-956f-8f653148e2a5&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Main.kt" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -30,21 +46,132 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2dB8XHAXzbH4O5TZxnAHtjasFmk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.MainKt.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "D:/Jet/Kotlin_Induce/src/Main.kt"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.AKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.BKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.CKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.DKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.E2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.E3Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.E4Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.E5Kt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin.EKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Excel_Sheet_Column_TitleKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FirstKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.G2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.GKt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin.G_2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.HKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.IKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.I_2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.I_3Kt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin.I_ver2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Isomorphic_StringsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.JustKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SolutionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Valid_PalindromeKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._10_Krosh_hedgehog_and_quadratic_gameKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._10_Upgrade_your_heroKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._10_upgrate_heroKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._111Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._11Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._11_Soft_litterKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._13_Way_in_the_columnKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._141Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._14_Bag_in_DBKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._151Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1701Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._17Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._17_Crumble_and_stringKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._19__remaining_in_touchKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1_1Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._209Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._20_Data_AnalisysKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._219Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._21_Merge_Two_Sorted_ListsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._2231Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._23_Reduction_of__he_routeKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._23_TurnKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._24_Numbers_in_rowKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._25_Haiku_in_EnglishKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._26Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._26_Playing_with_substitutionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._27_The_power_of_artKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._290Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._29_Journal_without_dates__2_0_Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._3507Kt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin._38Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._3Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._3_Superstitious_CollectorKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._409Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._417Kt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin._443Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._455Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._456Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._460Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._467Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._468Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._4Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._4_1Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._4_Game_Of_MaximKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._4_hardest_wordKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._50Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._56Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._59Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._5Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._5_2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._5_55Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._5_5Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._5_5_5Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._5_Game_of_citiesKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._6Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._6_Journal_without_datesKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._6_Playing_with_substitutionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._7_Life_in_colorsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._848Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._8Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._938Kt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin._986Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._9_CheatingKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._9_Restoring_reportsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.СKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Jet/Kotlin_Induce/src/Main.kt&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Jet\Kotlin_Induce\src" />
+      <recent name="D:\Jet\Kotlin_Induce\src\yandexMobile_1_to_34_2025year" />
+      <recent name="D:\Jet\Kotlin_Induce\src\Contest_October_2024" />
+      <recent name="D:\Jet\Kotlin_Induce\src\Solutions" />
+      <recent name="D:\Jet\Kotlin_Induce\src\Classes" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="Classes" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,6 +181,51 @@
       <option name="presentableId" value="Default" />
       <updated>1709470164967</updated>
     </task>
+    <task id="LOCAL-00001" summary="03.03.24">
+      <option name="closed" value="true" />
+      <created>1709480277655</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709480277655</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="03.03.24" />
+    <option name="LAST_COMMIT_MESSAGE" value="03.03.24" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/59.kt</url>
+          <line>68</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/59.kt</url>
+          <line>83</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/59.kt</url>
+          <line>53</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
